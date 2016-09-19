@@ -1,0 +1,6 @@
+plugin.tx_staticinfotables_pi1 {
+	currencyCode = RSD
+	countryCode = SRB
+	countryZoneCode =
+	languageCode = SR
+}
