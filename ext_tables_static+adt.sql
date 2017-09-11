@@ -250,5 +250,3 @@ UPDATE static_countries SET cn_short_sr='Karipska Holandija' WHERE cn_iso_2='BQ'
 UPDATE static_countries SET cn_short_sr='Kurasao' WHERE cn_iso_2='CW';
 UPDATE static_countries SET cn_short_sr='Sveti Martin' WHERE cn_iso_2='SX';
 UPDATE static_countries SET cn_short_sr='Južni Sudan' WHERE cn_iso_2='SS';
-
-UPDATE static_countries SET cn_official_name_sr = cn_short_sr WHERE cn_official_name_sr='' OR cn_official_name_sr IS NULL;

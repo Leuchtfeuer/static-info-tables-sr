@@ -1,10 +1,11 @@
 <?php
-
+namespace SJBR\StaticInfoTables\Domain\Model;
 /***************************************************************
  *  Copyright notice
  *
  *  (c) 2011-2012 Armin Rüdiger Vieweg <info@professorweb.de>
  *  (c) 2013 Stanislas Rolland <typo3(arobas)sjbr.ca>
+ *  (c) 2017 Florian Wessels <typo3-ext@bitmotion.de>
  *
  *  All rights reserved
  *
