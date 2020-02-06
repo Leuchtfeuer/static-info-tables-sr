@@ -1,6 +1,5 @@
 <?php
-declare(strict_types=1);
-
+declare(strict_types = 1);
 namespace Bitmotion\StaticInfoTablesSr\Provider;
 
 use Bitmotion\StaticInfoTablesSr\Extension;
